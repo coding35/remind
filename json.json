@@ -1,11 +1,80 @@
 [
     {
-        "Phrase": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        "Phrase": "My popularity, my happiness and sense of worth depend to no small extent upon my skill in dealing with people."
     },
     {
-        "Phrase": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+        "Phrase": "Journal each day and appraise your performance once a week. What went well, what didn’t, mistakes, what can I do to improve. "
     },
     {
-        "Phrase": "test"
+        "Phrase": "Object-oriented programming (OOP) is a programming paradigm that focuses on creating objects that contain data and methods to manipulate that data. It is a way of organizing and structuring software in a manner that is easy to understand, modify, and maintain.In OOP, objects are instances of classes, which are templates that define the properties and behaviors of objects. The properties of an object are represented by its attributes, while its behaviors are represented by its methods. One of the key features of OOP is encapsulation, which allows for the hiding of an object's internal details and the exposure of only its public interface. This helps to prevent accidental modification of an object's state and promotes modularity and code reuse. Inheritance is another important concept in OOP, which allows for the creation of new classes that inherit the properties and behaviors of existing classes. This helps to reduce code duplication and allows for the creation of more specialized classes. Polymorphism is also a key feature of OOP, which allows for the same method to behave differently depending on the context in which it is used. This helps to make code more flexible and adaptable to changing requirements."
+    },
+    {
+        "Phrase": "Principle 1: Become genuinely interested in other people. "
+    },
+    {
+        "Phrase": "Principle 2: Smile. "
+    },
+    {
+        "Phrase": "Principle 3: Use the person's name. "
+    },
+    {
+        "Phrase": "Principle 4: Be a good listener. "
+    },
+    {
+        "Phrase": "Principle 5: Talk in terms of the other person's interests. "
+    },
+    {
+        "Phrase": "Principle 6: Make the other person feel important - and do it sincerely. "
+    },
+    {
+        "Phrase": "Principle 7: The only way to get the best of an argument is to avoid it. "
+    },
+    {
+        "Phrase": "Principle 8: Show respect for the other person's opinions. "
+    },
+    {
+        "Phrase": "Principle 9: If you are wrong, admit it quickly and emphatically. "
+    },
+    {
+        "Phrase": "Principle 10: Begin in a friendly way. "
+    },
+    {
+        "Phrase": "Principle 11: Get the other person saying yes, yes immediately. "
+    },
+    {
+        "Phrase": "Principle 12: Let the other person do a great deal of the talking. "
+    },
+    {
+        "Phrase": "Principle 13: Let the other person feel that the idea is his or hers. "
+    },
+    {
+        "Phrase": "Principle 14: Try honestly to see things from the other person's point of view. "
+    },
+    {
+        "Phrase": "Principle 15: Be sympathetic with the other person's ideas and desires. "
+    },
+    {
+        "Phrase": "Principle 16: Appeal to the nobler motives. "
+    },
+    {
+        "Phrase": "Principle 17: Dramatize your ideas. "
+    },
+    {
+        "Phrase": "Principle 18: Throw down a challenge. "
+    },
+    {
+        "Phrase": "Principle 19: Begin with praise and honest appreciation. "
+    },
+    {
+        "Phrase": "Principle 20: Call attention to people's mistakes indirectly. "
+    },
+    {
+        "Phrase": "Principle 21: Talk about your own mistakes before criticizing the other person. "
+    },
+    {
+        "Phrase": "Principle 22: Ask questions instead of giving direct orders. "
+    },
+    {
+        "Phrase": "Principle 23: Let the other person save face. "
     }
 ]
